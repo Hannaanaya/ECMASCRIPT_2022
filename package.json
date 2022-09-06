@@ -1,0 +1,12 @@
+{
+  "name": "ecmascript_2022",
+  "version": "1.0.0",
+  "description": "ecmascript2022\u001b[D\u001b[D\u001b[D\u001b[D_\u001b[C\u001b[D2\u001b[C\u001b022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hannaanaya",
+  "license": "ISC",
+  "type": "module"
+}
